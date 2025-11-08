@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Wireless Bluetooth Headphones",
+    "price": 79.99,
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=500&h=500&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "name": "Smart Watch Series 5",
+    "price": 199.99,
+    "description": "Advanced smartwatch with health monitoring, GPS, and waterproof design.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=500&h=500&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "name": "Organic Cotton T-Shirt",
+    "price": 29.99,
+    "description": "Comfortable and sustainable cotton t-shirt available in multiple colors.",
+    "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=500&h=500&fit=crop",
+    "category": "Clothing"
+  },
+  {
+    "name": "Stainless Steel Water Bottle",
+    "price": 24.99,
+    "description": "Keep your drinks hot or cold for hours with this durable stainless steel bottle.",
+    "image": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?w=500&h=500&fit=crop",
+    "category": "Accessories"
+  },
+  {
+    "name": "Programming Book Bundle",
+    "price": 49.99,
+    "description": "Set of 3 programming books covering JavaScript, React, and Node.js.",
+    "image": "https://images.unsplash.com/photo-1544716278-ca5e3f4abd8c?w=500&h=500&fit=crop",
+    "category": "Books"
+  },
+  {
+    "name": "Gaming Mouse",
+    "price": 59.99,
+    "description": "Precision gaming mouse with RGB lighting and customizable buttons.",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=500&h=500&fit=crop",
+    "category": "Electronics"
+  },
+  {
+    "name": "Yoga Mat",
+    "price": 34.99,
+    "description": "Non-slip yoga mat for all types of exercises and meditation practices.",
+    "image": "https://images.unsplash.com/photo-1544367567-0f2fcb009e0b?w=500&h=500&fit=crop",
+    "category": "Fitness"
+  },
+  {
+    "name": "Ceramic Coffee Mug",
+    "price": 14.99,
+    "description": "Beautiful handcrafted ceramic mug perfect for your morning coffee.",
+    "image": "https://images.unsplash.com/photo-1544787219-7f47ccb76574?w=500&h=500&fit=crop",
+    "category": "Home"
+  }
+]
